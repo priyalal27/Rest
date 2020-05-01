@@ -1,0 +1,6 @@
+I must ask developers-
+client ID
+client secret
+redirect url
+scope
+grant type- > authorisation_code/ client_credentials
